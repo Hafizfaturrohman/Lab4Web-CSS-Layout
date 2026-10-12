@@ -4,7 +4,6 @@
 | -------- | --- |
 | **Nama** | Hafiz Faturrohman |
 | **NIM** | 312210375 |
-| **Kelas** | TI.22.A4 |
 | **Mata Kuliah** | Pemrograman WEB |
 
 ### Tugas
